@@ -9,8 +9,8 @@
     "telegram-bot",
     "productivity"
   ],
-  "repository": "https://github.com/DevsExpo/CrackingToolsBot",
-  "website": "starkgang.ml",
+  "repository": "https://github.com/itshacked/multichecker",
+  "website": "qualitymoviez.tk",
   "success_url": "t.me/itshackedgiveaways",
   "env": {
     "ENV": {
