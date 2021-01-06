@@ -141,7 +141,7 @@ async def Devsexpo(event):
             return
         with open("hits.txt", "w") as hitfile:
             for s in hits_dict:
-                hitfile.write(s + " | @DevsExpo")
+                hitfile.write(s + " | @itshackedgiveaways")
         ok.delete()
         await UltraBot.send_file(
             event.chat_id,
